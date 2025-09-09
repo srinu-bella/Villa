@@ -91,7 +91,7 @@
   background-color: #ffeee8; /* light peach */
   border-radius: 10px;
   padding: 20px 25px;
-  display: flex;
+  display:flex;
   align-items: center;
   justify-content: flex-start;
   width: 250px;
@@ -100,7 +100,7 @@
 
 .custom-badge .number {
   font-size: 2rem;
-  font-weight: bold;
+  font-weight:bold;
   color: #f4511e; /* orange */
   margin-right: 15px;
 }
